@@ -33,3 +33,9 @@ Mac OS X: put it in ~/Library/Preferences/bluray/ (create it if it does not exis
 Linux: put it in ~/.config/bluray/
 
 ---
+
+### Decryption Scheme
+
+[Advanced Access Content System](https://en.wikipedia.org/wiki/Advanced_Access_Content_System)
+
+![Screenshot](img/AACS_dataflow.png)
