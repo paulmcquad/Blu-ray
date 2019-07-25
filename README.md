@@ -38,4 +38,4 @@ Linux: put it in ~/.config/bluray/
 
 [Advanced Access Content System](https://en.wikipedia.org/wiki/Advanced_Access_Content_System)
 
-![Screenshot](img/AACS_dataflow.png)
+![Screenshot](/img/425x350AACS_dataflow.png)
