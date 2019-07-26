@@ -45,8 +45,13 @@ It shows the disc and the player and "all" the important keys involved in the de
 ![Screenshot](/img/425x350AACS_dataflow.png)
 
 MKB = Media Key Block
+
 Process MKB = Subset-Difference Tree system
+
 Km = Media Key
+
 Kvu = Volume Unique Key
+
 Encrypted Key = Encrypted Title Key
+
 Kt = Title Key
