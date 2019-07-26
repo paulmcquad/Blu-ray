@@ -43,3 +43,10 @@ It shows the disc and the player and "all" the important keys involved in the de
 [Advanced Access Content System](https://en.wikipedia.org/wiki/Advanced_Access_Content_System)
 
 ![Screenshot](/img/425x350AACS_dataflow.png)
+
+MKB = Media Key Block
+Process MKB = Subset-Difference Tree system
+Km = Media Key
+Kvu = Volume Unique Key
+Encrypted Key = Encrypted Title Key
+Kt = Title Key
