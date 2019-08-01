@@ -1,10 +1,15 @@
 # Blu-ray
 
-##### Blu-ray Files
+---
 
-https://vlc-bluray.whoknowsmy.name/
+How To Install Blu-ray Support on any system:
+
+See [INSTALL.md](INSTALL.md)
 
 ---
+
+
+### Configuration Files
 
 ### AACS:
 Windows: put it in C:\ProgramData\aacs\
