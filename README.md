@@ -61,6 +61,9 @@ Encrypted Key = Encrypted Title Key
 
 Kt = Title Key
 
+
+ DiscID = VolumeName (MetaTitle) | D | DateDiscID | V | VUK | M | MEDIAKEY | I | VOLUMEID | U | 1-0xUnitKey | 2-0xUnitKey | n-0xUnitKey ; MKBrev/FindVUK 1.09 
+
 ---
 ### More Information
 

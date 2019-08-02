@@ -16,9 +16,13 @@ Use the files in libraries directory i.e (libraries/win64):
 ##### Checksum (sha1sum):
 
 cd07467b3ba40badf7cb70cb7491bccc4dc7feca  win32/libaacs.dll
+
 271a5d5a712d4cf478e33378079b8a74691b9e42  win32/libbdplus.dll
+
 01ab92f018cef671114b34149c21666fc7898558  win64/libaacs.dll
+
 6819cecdd359c9eac72bff7d10bf8f1159c0854d  win64/libbdplus.dll
+
 5ab566625b41a84adaef1af25d497c23948a6578  mac/libaacs.dylib
 
 ---
