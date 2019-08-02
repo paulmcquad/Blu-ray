@@ -60,3 +60,14 @@ Kvu = Volume Unique Key
 Encrypted Key = Encrypted Title Key
 
 Kt = Title Key
+
+---
+### More Information
+
+Advanced Access Content System Licensing Administrator, LLC (“AACS LA”)
+
+https://aacsla.com/
+
+https://aacsla.com/news/
+
+---
