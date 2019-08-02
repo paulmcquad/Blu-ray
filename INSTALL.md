@@ -7,8 +7,11 @@ Use the files in libraries directory i.e (libraries/win64):
 
 
    VLC 32 bit on Windows: put the files in your VLC directory
+
    VLC 64 bit on Windows: put the files in your VLC directory
+   
    Mac OS X: put the file in /usr/local/lib/ directory (create it, if it does not exist)
+   
    Linux: Use Pacman / AUR or package manager of choice.
 
 ---
