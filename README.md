@@ -12,7 +12,7 @@ See [INSTALL.md](INSTALL.md)
 ### Configuration Files
 
 ### AACS:
-Windows: put it in C:\ProgramData\aacs\
+Windows: put it in C:\Users\gamer\AppData\Roaming\aacs\
 
 Mac OS X: put it in ~/Library/Preferences/aacs/ (create it if it does not exist)
 
@@ -21,7 +21,7 @@ Linux: put it in ~/.config/aacs/
 ---
 
 ### bdplus:
-Windows: put it in C:\ProgramData\bdplus\
+Windows: put it in C:\Users\gamer\AppData\Roaming\bdplus\
 
 Mac OS X: put it in ~/Library/Preferences/bdplus/ (create it if it does not exist)
 
@@ -31,7 +31,7 @@ Linux: put it in ~/.config/bdplus/
 
 ### bluray:
 
-Windows: put it in C:\ProgramData\bluray\
+Windows: put it in C:\Users\gamer\AppData\Roaming\bluray\
 
 Mac OS X: put it in ~/Library/Preferences/bluray/ (create it if it does not exist)
 
