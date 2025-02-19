@@ -1,0 +1,2 @@
+.cfg filter=lfs diff=lfs merge=lfs -text
+.cfg.bac filter=lfs diff=lfs merge=lfs -text
